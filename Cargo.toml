@@ -1,0 +1,6 @@
+[package]
+name = "hello_rust_gtk"
+version = "0.1.0"
+authors = ["Jacob Salzberg <jsalzbergedu@yahoo.com>"]
+
+[dependencies]
